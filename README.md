@@ -1,9 +1,7 @@
 # IntelliTraffic-Advanced-Smart-Traffic-Management-System
 
-<p align="center">
-   <img src="[https://www.aindralabs.com/wp-content/uploads/IMG-20190513-WA00021.jpg](https://user-images.githubusercontent.com/84952780/170506027-3b1c18b3-90db-4641-b290-73dca9440ade.png)" width="650" height="400">
-</p>
-
+ ![Holistic traffic management system - Presentation - Google Chrome 11-06-2022 22_17_29](https://user-images.githubusercontent.com/84952780/173198548-de8e2d2e-53cd-4c11-8c58-bd520c489844.png)
+ 
 ****PROBLEM****
 * In this modern era of technology, the number of vehicles and automobiles on roads have increased at a tremendous rate.
 
@@ -15,10 +13,6 @@
 
 
 ****SOLUTION****
-
-<p align="center">
-   <img src="[https://www.aindralabs.com/wp-content/uploads/IMG-20190513-WA00021.jpg](https://user-images.githubusercontent.com/84952780/173198548-de8e2d2e-53cd-4c11-8c58-bd520c489844.png)" width="650" height="400">
-</p>
 
 * The system provides wireless communication between the traffic light and the emergency vehicle using radio signals. 
 
