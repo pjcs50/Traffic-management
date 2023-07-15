@@ -54,3 +54,9 @@ Tech Stack for Prototype
 * Arduino IDE
 * OpenCV
 
+***TEAM MEMBERS***
+
+* HARSH AGRAWAL
+* RAGHAV GUPTA
+* ABHINAV KHANNA  
+* SUBHENDU SINGH 
