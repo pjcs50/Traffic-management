@@ -1,4 +1,4 @@
-# IntelliTraffic-Advanced-Smart-Traffic-Management-System
+# Traffic management system
 
  ![Holistic traffic management system - Presentation - Google Chrome 11-06-2022 22_17_29](https://user-images.githubusercontent.com/84952780/173198548-de8e2d2e-53cd-4c11-8c58-bd520c489844.png)
  
