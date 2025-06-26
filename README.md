@@ -56,7 +56,6 @@ Tech Stack for Prototype
 
 ***TEAM MEMBERS***
 
-* HARSH AGRAWAL
-* RAGHAV GUPTA
-* ABHINAV KHANNA  
-* SUBHENDU SINGH 
+* Prakhar Jain
+* Archit agarwal
+* 
